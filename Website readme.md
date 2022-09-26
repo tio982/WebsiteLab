@@ -1,0 +1,13 @@
+***Shoe Selling Website***
+
+A website for purchasing different brands of trainers.
+.The main page will display different types of popular trainers in different colours/genres. Functionality will include a waiting list form, ability to add to basket, and a checkout page.
+
+Requirements
+
+- Logo and title
+- Sliding menu to display different trainers
+- Checkout page
+- Waiting list form
+
+![](https://ci3.googleusercontent.com/mail-img-att/AFCqZUTzjzAce0REwxYaTDONngLi19i-A0FXzN4WogMnsAepzAQRyBEdOwhSNn2CHgRensz95Vk8TwkYc_lNvRlHJsmzqOsWO31657-Q0vgcathvFGKrecOcAhJak1IEECG8mc604OapKWvCwTJTQpWVzWn69mEWxWrY72ZeogWXTcpyHB8XpSGlHydN2E8QHDt5YYxya4XqfbTZMxio0Q-kB--a4uatrDDPBcrTXTl2QehISvyiPqTrTFhcNVDTDA93i46CPHFY4NTYuwQw6mmVg8U1PZIBrWN5GiYUgTTZ8l12i5J-rO_jCGG3AiLxcBcv15_yjQw7RFsVj4gdZFLFajwK8YaR93S8iCjVicw0IL3iBfy0NTTwBjmbWHYzORlVqYP5fzvJwUGKHJJbvzev2XTeTOdQ095Tak6TBAF14ijtdL-JaOvjfxDuOiWwNZSdGzGDMvwuI1leJ1A5vP1VFZuun7uOMIsSdCRfEZdXLrFzOEcSKGG2dAuTm1kX4w2VN4ub-cshm-gzP5qVA-cbvx7SjZvIBqUahkVqgFcw-VWA5N9TeX_O0utDsJSlxwJiS2y0X4bL9rmRgig25RsNPQJfipKMJwnITMaXtTh0aMuvAdDdkQXQwXboROD_y0C9oD6X_LR-ZKY1ICN4LUPgiLXR32dMweyPemcgUoFxfexS4gFXEYdHh-hJIfC2mQGqayJ8_JEWoxSmvDpjM8Z6D3zdRKszioK3MfpjAEoaW2xqKks09ReTa-5KnydoXRgWbvOGkS-hr7ikbGKZL32tUNOzHROOTMRK_oEt1pFuAcYUNTcIGclmzdhL=s0-l75-ft)
